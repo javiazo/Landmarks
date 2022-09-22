@@ -1,9 +1,3 @@
-//
-//  ContentView.swift
-//  Landmarks
-//
-//  Created by Javier Azorín on 22/9/22.
-//
 
 import SwiftUI
 
